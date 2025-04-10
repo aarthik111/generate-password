@@ -25,11 +25,7 @@ This is a responsive web-based password generator that creates strong, random pa
 
 ![image](https://github.com/user-attachments/assets/72b2b8f9-a67a-4e04-bb5f-f495aa0c050a)
 
-
-Add a screenshot here if you'd like
 🚀 How to Use:
-
-    Open the webpage.
 
     Click the Generate Password button.
 
